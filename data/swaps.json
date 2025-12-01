@@ -1,0 +1,40 @@
+[
+    {
+        "original": "Arroz branco",
+        "substitutes": [
+            "Batata doce",
+            "Mandioca",
+            "Macarrão integral",
+            "Arroz integral"
+        ],
+        "ratio": "1:1 (peso cozido)"
+    },
+    {
+        "original": "Peito de frango",
+        "substitutes": [
+            "Patinho",
+            "Tilápia",
+            "Lombo suíno",
+            "Ovos (2 un = 100g carne)"
+        ],
+        "ratio": "1:1"
+    },
+    {
+        "original": "Aveia",
+        "substitutes": [
+            "Granola sem açúcar",
+            "Farinha de arroz",
+            "Tapioca"
+        ],
+        "ratio": "1:1"
+    },
+    {
+        "original": "Azeite",
+        "substitutes": [
+            "Manteiga",
+            "Óleo de coco",
+            "Abacate"
+        ],
+        "ratio": "1:1 (gordura)"
+    }
+]
